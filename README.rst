@@ -1,7 +1,8 @@
 Google Cloud Python Client
 ==========================
 
-    Python idiomatic client for Google Cloud Platform services.
+ Hello,I am Sonic.
+ Python idiomatic client for Google Cloud Platform services.
 
 |build| |coverage|
 ------------------
